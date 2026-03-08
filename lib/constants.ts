@@ -1,9 +1,13 @@
 export const NAV_LINKS = [
-  { label: 'A Arena', href: '#about' },
-  { label: 'Quadras', href: '#courts' },
-  { label: 'Planos', href: '#plans' },
-  { label: 'Agenda', href: '#booking' },
-  { label: 'Contato', href: '#location' },
+  { label: 'A Arena', href: '/#about' },
+  { label: 'Professores', href: '/coaches' },
+  { label: 'Torneios', href: '/tournaments' },
+  { label: 'Aprenda', href: '/learn' },
+  { label: 'Quadras', href: '/#courts' },
+  { label: 'Planos', href: '/#plans' },
+  { label: 'Notícias', href: '/news' },
+  { label: 'Agenda', href: '/#booking' },
+  { label: 'Contato', href: '/#location' },
 ];
 
 export const STATS = [
